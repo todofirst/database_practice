@@ -1,0 +1,318 @@
+{
+
+  "dm": [
+    {
+      "name": "商品管理",
+      "icon":"el-icon-s-cooperation",
+      "children": [
+        {
+          "name": "矿泉水管理",
+          "url" : "/goods/water"
+
+        },
+        {
+          "name": "矿泉水套餐管理",
+          "url" : "/goods/combo"
+        }
+      ]
+    },
+    {
+      "name": "业务管理",
+      "icon":"el-icon-s-claim",
+      "children": [
+        {
+          "name": "客户订单管理",
+          "url" : "/business/orders"
+        },
+        {
+          "name": "任务管理",
+          "url" : "/business/tasks"
+        }
+      ]
+    },
+
+    {
+      "name": "系统设置",
+      "icon":"el-icon-s-tools",
+      "children": [
+        {
+          "name": "基本设置",
+          "url" : "/config/basec"
+        }
+      ]
+    }
+
+  ],
+
+  "sm": [
+
+    {
+      "name": "商品管理",
+      "icon":"el-icon-s-cooperation",
+      "children": [
+        {
+          "name": "矿泉水管理",
+          "url" : "/goods/water"
+
+        },
+        {
+          "name": "矿泉水套餐管理",
+          "url" : "/goods/combo"
+        }
+      ]
+    },
+
+    {
+      "name": "信息管理",
+      "icon":"el-icon-s-management",
+      "children": [
+        {
+          "name": "供货商管理",
+          "url" : "/info/suppliers"
+        },
+        {
+          "name": "入库信息管理",
+          "url" : "/info/istore"
+        }
+      ]
+    },
+
+    {
+      "name": "业务管理",
+      "icon":"el-icon-s-claim",
+      "children": [
+        {
+          "name": "客户订单管理",
+          "url" : "/business/orders"
+        },
+        {
+          "name": "任务管理",
+          "url" : "/business/tasks"
+        }
+      ]
+    },
+
+    {
+      "name": "信息统计",
+      "icon":"el-icon-pie-chart",
+      "children": [
+        {
+          "name": "收支统计",
+          "url" : "/statistics/outinput"
+        },
+        {
+          "name": "商品统计",
+          "url" : "/statistics/itemstat"
+        }
+      ]
+    },
+
+    {
+      "name": "系统设置",
+      "icon":"el-icon-s-tools",
+      "children": [
+        {
+          "name": "基本设置",
+          "url" : "/config/basec"
+        }
+      ]
+    }
+
+  ],
+  
+  "cs": [
+
+    {
+      "name": "商品管理",
+      "icon":"el-icon-s-cooperation",
+      "children": [
+        {
+          "name": "矿泉水管理",
+          "url" : "/goods/water"
+
+        },
+        {
+          "name": "矿泉水套餐管理",
+          "url" : "/goods/combo"
+        }
+      ]
+    },
+
+    {
+      "name": "信息管理",
+      "icon":"el-icon-s-management",
+      "children": [
+        {
+          "name": "供货商管理",
+          "url" : "/info/suppliers"
+        },
+        {
+          "name": "入库信息管理",
+          "url" : "/info/istore"
+        }
+      ]
+    },
+
+    {
+      "name": "人员管理",
+      "icon":"el-icon-s-check",
+      "children": [
+        {
+          "name": "用户管理",
+          "url" : "/people/members"
+        }
+      ]
+    },
+
+
+    {
+      "name": "业务管理",
+      "icon":"el-icon-s-claim",
+      "children": [
+        {
+          "name": "客户订单管理",
+          "url" : "/business/orders"
+        },
+        {
+          "name": "任务管理",
+          "url" : "/business/tasks"
+        }
+      ]
+    },
+
+    {
+      "name": "信息统计",
+      "icon":"el-icon-pie-chart",
+      "children": [
+        {
+          "name": "收支统计",
+          "url" : "/statistics/outinput"
+        },
+        {
+          "name": "商品统计",
+          "url" : "/statistics/itemstat"
+        },
+        {
+          "name": "用户统计",
+          "url" : "/statistics/userstat"
+        }
+      ]
+    },
+
+    {
+      "name": "系统设置",
+      "icon":"el-icon-s-tools",
+      "children": [
+        {
+          "name": "基本设置",
+          "url" : "/config/basec"
+        }
+      ]
+    }
+
+  ],
+
+  "admin": [
+
+    {
+      "name": "商品管理",
+      "icon":"el-icon-s-cooperation",
+      "children": [
+        {
+          "name": "矿泉水管理",
+          "url" : "/goods/water"
+
+        },
+        {
+          "name": "矿泉水套餐管理",
+          "url" : "/goods/combo"
+        }
+      ]
+    },
+
+    {
+      "name": "信息管理",
+      "icon":"el-icon-s-management",
+      "children": [
+        {
+          "name": "供货商管理",
+          "url" : "/info/suppliers"
+        },
+        {
+          "name": "入库信息管理",
+          "url" : "/info/istore"
+        }
+      ]
+    },
+
+    {
+      "name": "人员管理",
+      "icon":"el-icon-s-check",
+      "children": [
+        {
+          "name": "用户管理",
+          "url" : "/people/members"
+        },
+        {
+          "name": "员工管理",
+          "url" : "/people/employees"
+        }
+      ]
+    },
+
+
+    {
+      "name": "业务管理",
+      "icon":"el-icon-s-claim",
+      "children": [
+        {
+          "name": "客户订单管理",
+          "url" : "/business/orders"
+        },
+        {
+          "name": "任务管理",
+          "url" : "/business/tasks"
+        }
+      ]
+    },
+
+    {
+      "name": "信息统计",
+      "icon":"el-icon-pie-chart",
+      "children": [
+        {
+          "name": "员工业绩",
+          "url" : "/statistics/employees"
+        },
+        {
+          "name": "收支统计",
+          "url" : "/statistics/outinput"
+        },
+        {
+          "name": "商品统计",
+          "url" : "/statistics/itemstat"
+        },
+        {
+          "name": "用户统计",
+          "url" : "/statistics/userstat"
+        }
+      ]
+    },
+
+    {
+      "name": "系统设置",
+      "icon":"el-icon-s-tools",
+      "children": [
+        {
+          "name": "基本设置",
+          "url" : "/config/basec"
+        },
+        {
+          "name": "权限设置",
+          "url" : "/config/authority"
+        }
+      ]
+    }
+
+  ]
+}

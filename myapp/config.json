@@ -1,0 +1,34 @@
+{
+
+  "index" : {
+    "baseUrl" : "http://localhost",
+    "defaultPort" : 8890
+  },
+
+  "mysql":{
+
+    "connectionLimit"   : 10,
+    "host"              : "localhost",
+    "user"              : "cxj",
+    "password"          : "123",
+    "database"          : "dataprc",
+    "port"              : 3306,
+    "multipleStatements": true
+
+  },
+
+  "cors" :{
+    
+      "origin": ["http://localhost:8090"],
+      "methods": "*",
+      "alloweHeaders": "*"
+  },
+
+
+  "ssl": {
+		"enable": false,
+		"key": "",
+		"cert": ""
+	}
+
+}

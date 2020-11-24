@@ -78,7 +78,7 @@ npm start
 
 `axios`配置修改
 
-![image-20201124203125997](./pic/image-20201124203125997.png)
+![image-20201124203125997](C:\Users\cxj\AppData\Roaming\Typora\typora-user-images\image-20201124203125997.png)
 
 - `host`: 请求主机地址
 - `port`: 端口
@@ -112,35 +112,35 @@ npm start
 
 - 基本显示
 
-![image-20201121222207009](./pic/image-20201121222207009.png)
+![image-20201121222207009](C:\Users\cxj\AppData\Roaming\Typora\typora-user-images\image-20201121222207009.png)
 
 - 编辑
 
-![image-20201121222257828](./pic/image-20201121222257828.png)
+![image-20201121222257828](C:\Users\cxj\AppData\Roaming\Typora\typora-user-images\image-20201121222257828.png)
 
 - 封面上传
 
-![image-20201121222351219](./pic/image-20201121222351219.png)
+![image-20201121222351219](C:\Users\cxj\AppData\Roaming\Typora\typora-user-images\image-20201121222351219.png)
 
 - 图片预览
 
-![image-20201121222508326](./pic/image-20201121222508326.png)
+![image-20201121222508326](C:\Users\cxj\AppData\Roaming\Typora\typora-user-images\image-20201121222508326.png)
 
 - 多选导出Excel
 
-![image-20201121222610432](./pic/image-20201121222610432.png)
+![image-20201121222610432](C:\Users\cxj\AppData\Roaming\Typora\typora-user-images\image-20201121222610432.png)
 
 - 简单单项搜索，支持关键词匹配
 
-![image-20201121222735130](./pic/image-20201121222735130.png)
+![image-20201121222735130](C:\Users\cxj\AppData\Roaming\Typora\typora-user-images\image-20201121222735130.png)
 
 - 辅助搜索
 
-![image-20201121222818740](./pic/image-20201121222818740.png)
+![image-20201121222818740](C:\Users\cxj\AppData\Roaming\Typora\typora-user-images\image-20201121222818740.png)
 
 - 简单统计
 
-![image-20201121222857144](./pic/image-20201121222857144.png)
+![image-20201121222857144](C:\Users\cxj\AppData\Roaming\Typora\typora-user-images\image-20201121222857144.png)
 
 
 
